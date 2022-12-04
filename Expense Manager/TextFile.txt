@@ -6,3 +6,6 @@ EFCore -- 6.0.11
 EFCore.SqlServer -- 6.0.11
 EFCore.Tools -- 6.0.11
 
+Add the Models
+Setup ConnectionString
+Do the Migrations
