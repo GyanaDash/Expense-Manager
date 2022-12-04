@@ -9,3 +9,9 @@ EFCore.Tools -- 6.0.11
 Add the Models
 Setup ConnectionString
 Do the Migrations
+
+Install NuGet Package for SyncFusion component
+Syncfusion.EJ2.AspNetCore
+NewtonsoftJSON
+
+Configure SyncFusion. Follow the official documentaion
