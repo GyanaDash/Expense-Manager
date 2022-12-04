@@ -1,0 +1,8 @@
+﻿
+The Project is built on top of .Net 6 ( ASP .Net Core Web App MVC template )
+
+Install 3 NuGet packages,
+EFCore -- 6.0.11
+EFCore.SqlServer -- 6.0.11
+EFCore.Tools -- 6.0.11
+
