@@ -6,14 +6,15 @@
     <title>@ViewData["Title"] - Expense_Manager</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <!-- Syncfusion ASP.NET Core controls styles -->
-    <link rel="stylesheet" href="https://cdn.syncfusion.com/ej2/20.3.56/material.css" />
+   @* <link rel="stylesheet" href="https://cdn.syncfusion.com/ej2/20.3.56/material.css" />*@
+    <link href="https://cdn.syncfusion.com/ej2/20.3.56/bootstrap5-dark.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Expense_Manager.styles.css" asp-append-version="true" />
     <!-- Syncfusion ASP.NET Core controls scripts -->
     <script src="https://cdn.syncfusion.com/ej2/20.3.56/dist/ej2.min.js"></script>
 </head>
 <body>
-    <header>
+    <header class="e-bigger">
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Expense_Manager</a>
